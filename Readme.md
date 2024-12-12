@@ -56,3 +56,6 @@ git clone SSH-адрес_вашего_форка
 
 [check-image]: https://github.com/htmlacademy-adaptive/2593749-mishka-1/workflows/Project%20check/badge.svg?branch=master
 [check-url]: https://github.com/htmlacademy-adaptive/2593749-mishka-1/actions
+
+
+Let's go!
